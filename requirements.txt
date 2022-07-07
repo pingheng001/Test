@@ -43,7 +43,7 @@ psycopg2==2.6.2
 python-apt==0.9.3.5ubuntu2
 python-debian==0.1.21-nmu2ubuntu2
 python-editor==1.0.1
-requests==2.2.1
+requests==2.20.0
 requests-futures==0.9.7
 six==1.5.2
 ssh-import-id==3.21
